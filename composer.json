@@ -7,5 +7,9 @@
             "email": "1426344958@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "files": [
+            "index.php"
+        ]
+    }
 }
