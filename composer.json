@@ -1,0 +1,11 @@
+{
+    "name": "weifengl/jtthink",
+    "description": "jtthink test",
+    "authors": [
+        {
+            "name": "weifengli",
+            "email": "1426344958@qq.com"
+        }
+    ],
+    "require": {}
+}
